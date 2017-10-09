@@ -215,10 +215,11 @@ MonoBehaviour:
   groundTile: 1
   destinationTile: 0
   heroTile: 2
-  crateTile: 3
+  ballTile: 3
   heroOnDestinationTile: -2
-  crateOnDestinationTile: -3
+  ballOnDestinationTile: -3
   destinationColor: {r: 1, g: 0.5514706, b: 0.5514706, a: 1}
   tileSprite: {fileID: 21300000, guid: 8aea68650e91c4948bdfa701e4643c5f, type: 3}
   heroSprite: {fileID: 21300000, guid: e8113cb3108ae4a0d89b2a40c3b2c134, type: 3}
   ballSprite: {fileID: 21300000, guid: 8159265c77b764e488932a68c3691312, type: 3}
+  userInputKeys: 77000000640000007300000061000000
